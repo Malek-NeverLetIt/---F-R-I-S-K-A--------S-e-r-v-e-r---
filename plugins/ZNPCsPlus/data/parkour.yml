@@ -1,0 +1,31 @@
+id: parkour
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: b8e3df8e-fd24-40bb-a243-342a7913271a
+world: MiniGames
+location:
+  x: 13.5
+  y: 5.0
+  z: 21.5
+  yaw: 180.0
+  pitch: 0.0
+type: player
+properties:
+  skin_jacket: 'true'
+  skin_hat: 'true'
+  skin_right_leg: 'true'
+  skin_cape: 'true'
+  skin_left_sleeve: 'true'
+  skin_left_leg: 'true'
+  skin: mirror
+  skin_right_sleeve: 'true'
+hologram:
+  lines: []
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;Y2xlYXIgQHA=;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dGFnIEBwIHJlbW92ZSBodWI=;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dGFnIEBwIHJlbW92ZSBwdnA=;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dGFnIEBwIGFkZCBwYXJrb3Vy;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dHAgQHAgLTI0NiA4IC05IDAgMA==;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dGVsbHJhdyBAcCB7InRleHQiOiJXZWxjb21lIFRvIFBhcmtvdXIiLCJjb2xvciI6InllbGxvdyJ9;1000;ANY_CLICK;0

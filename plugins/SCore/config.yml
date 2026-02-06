@@ -1,0 +1,17 @@
+locale: EN
+useMySQL: false
+dbIP: 127.0.0.1
+dbPort: 3306
+dbName: myDB
+dbUser: root
+dbPassword: rootPassword
+reduceDamageIndicatorWithProtolcolLib: false
+silenceOutputs:
+- blacklist the sentence here
+globalSilenceOutputs:
+- blacklist the sentence here
+disableCustomMetadataOnEntities: false
+configVerbosity: NORMAL
+enableCommentsInConfig: true
+selfHostPackDebug: false
+selfHostPackIp: ''

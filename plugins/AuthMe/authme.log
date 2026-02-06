@@ -1,0 +1,793 @@
+[08-25 16:05:53]: [INFO] Created column 'regdate' and set the current timestamp, 1756127153371, to all 0 rows
+[08-25 16:05:53]: [INFO] SQLite Setup finished
+[08-25 16:05:54]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-25 16:05:55]: [INFO] Hooked successfully into Multiverse-Core
+[08-25 16:05:56]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-25 16:05:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-25 16:05:59]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-25 16:05:59]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-25 16:05:59]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-25 16:05:59]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-25 16:05:59]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-25 16:08:27]: [FINE] Urikzme_ registered 169.254.163.162
+[08-25 16:08:27]: [FINE] Urikzme_ logged in 169.254.163.162
+[08-25 16:18:03]: [INFO] SQLite Setup finished
+[08-25 16:18:03]: [INFO] Unhooked from Permissions!
+[08-25 16:18:03]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-25 16:18:03]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-25 16:20:16]: [FINE] Fedde_ registered 127.0.0.1
+[08-25 16:20:16]: [FINE] Fedde_ logged in 127.0.0.1
+[08-25 16:24:04]: [FINE] Fedde_ logged in 127.0.0.1
+[08-25 16:31:18]: [FINE] Urikzme_ logged in 169.254.163.162
+[08-25 16:32:31]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-25 16:35:23]: [INFO] SQLite Setup finished
+[08-25 16:35:23]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-25 16:35:23]: [INFO] Hooked successfully into Multiverse-Core
+[08-25 16:35:24]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-25 16:35:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-25 16:35:29]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-25 16:35:29]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-25 16:35:29]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-25 16:35:29]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-25 16:35:29]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-25 16:39:57]: [FINE] Fedde_ logged in 127.0.0.1
+[08-25 16:40:12]: [FINE] Fedde_ logged in 127.0.0.1
+[08-25 16:42:31]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-25 16:46:12]: [INFO] SQLite Setup finished
+[08-25 16:46:12]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-25 16:46:13]: [INFO] Hooked successfully into Multiverse-Core
+[08-25 16:46:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-25 16:46:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-25 16:46:16]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-25 16:46:16]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-25 16:46:16]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-25 16:46:16]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-25 16:46:16]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-25 16:46:35]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-26 23:55:49]: [INFO] SQLite Setup finished
+[08-26 23:55:49]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-26 23:55:50]: [INFO] Hooked successfully into Multiverse-Core
+[08-26 23:55:50]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-26 23:55:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-26 23:55:54]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-26 23:55:54]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-26 23:55:54]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-26 23:55:54]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-26 23:55:54]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-27 00:56:25]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-27 14:12:55]: [INFO] SQLite Setup finished
+[08-27 14:12:56]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-27 14:12:56]: [INFO] Hooked successfully into Multiverse-Core
+[08-27 14:12:57]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-27 14:12:57]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-27 14:13:01]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-27 14:13:01]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-27 14:13:01]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-27 14:13:01]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-27 14:13:01]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-27 14:19:12]: [FINE] Slavis registered 127.0.0.1
+[08-27 14:19:12]: [FINE] The user Slavis has 2 accounts:
+[08-27 14:19:12]: [FINE] §7fedde_, §aSlavis§7.
+[08-27 14:19:12]: [FINE] Slavis logged in 127.0.0.1
+[08-27 14:19:33]: [FINE] The user Slavis has 2 accounts:
+[08-27 14:19:33]: [FINE] §7fedde_, §aSlavis§7.
+[08-27 14:19:33]: [FINE] Slavis logged in 127.0.0.1
+[08-27 14:20:23]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-27 14:27:50]: [INFO] SQLite Setup finished
+[08-27 14:27:51]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-27 14:27:51]: [INFO] Hooked successfully into Multiverse-Core
+[08-27 14:27:52]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-27 14:27:52]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-27 14:27:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-27 14:27:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-27 14:27:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-27 14:27:56]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-27 14:27:56]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-27 14:28:33]: [FINE] The user Slavis has 2 accounts:
+[08-27 14:28:33]: [FINE] §7fedde_, §aSlavis§7.
+[08-27 14:28:33]: [FINE] Slavis logged in 127.0.0.1
+[08-27 15:29:03]: [FINE] The user Fedde_ has 2 accounts:
+[08-27 15:29:03]: [FINE] §7§aFedde_§7, slavis.
+[08-27 15:29:03]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 15:37:16]: [FINE] The user Fedde_ has 2 accounts:
+[08-27 15:37:16]: [FINE] §7§aFedde_§7, slavis.
+[08-27 15:37:16]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 15:40:47]: [INFO] Unhooked from Permissions!
+[08-27 15:40:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-27 15:40:48]: [INFO] SQLite Setup finished
+[08-27 15:40:48]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-27 15:41:03]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 15:42:46]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 15:42:49]: [INFO] Unhooked from Permissions!
+[08-27 15:42:49]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-27 15:42:49]: [INFO] SQLite Setup finished
+[08-27 15:42:49]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-27 15:43:03]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 15:43:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-27 16:12:25]: [INFO] SQLite Setup finished
+[08-27 16:12:26]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-27 16:12:26]: [INFO] Hooked successfully into Multiverse-Core
+[08-27 16:12:27]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-27 16:12:27]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-27 16:12:32]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-27 16:12:32]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-27 16:12:32]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-27 16:12:32]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-27 16:12:32]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-27 16:12:56]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 16:13:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-27 16:14:57]: [INFO] SQLite Setup finished
+[08-27 16:14:58]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-27 16:14:58]: [INFO] Hooked successfully into Multiverse-Core
+[08-27 16:14:59]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-27 16:14:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-27 16:15:03]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-27 16:15:03]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-27 16:15:03]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-27 16:15:03]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-27 16:15:03]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-27 16:17:05]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 16:18:19]: [FINE] Urikzme_ logged in 192.168.8.11
+[08-27 16:19:09]: [FINE] Fedde_ logged in 127.0.0.1
+[08-27 16:27:05]: [FINE] Urikzme_ logged in 192.168.8.11
+[08-27 16:29:24]: [FINE] Urikzme_ logged in 192.168.8.11
+[08-27 16:44:10]: [FINE] Urikzme_ logged in 192.168.8.11
+[08-27 17:09:32]: [FINE] Urikzme_ logged in 192.168.8.11
+[08-27 17:27:27]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-28 12:03:35]: [INFO] SQLite Setup finished
+[08-28 12:03:36]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-28 12:03:37]: [INFO] Hooked successfully into Multiverse-Core
+[08-28 12:03:37]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-28 12:03:38]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-28 12:03:41]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-28 12:03:41]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-28 12:03:41]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-28 12:03:41]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-28 12:03:41]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-28 12:11:18]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-28 13:13:29]: [INFO] SQLite Setup finished
+[08-28 13:13:30]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-28 13:13:31]: [INFO] Hooked successfully into Multiverse-Core
+[08-28 13:13:31]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-28 13:13:31]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-28 13:13:35]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-28 13:13:35]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-28 13:13:35]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-28 13:13:35]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-28 13:13:35]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-28 13:19:47]: [FINE] Fedde_ logged in 127.0.0.1
+[08-28 13:19:50]: [FINE] Urikzme_ logged in 192.168.8.11
+[08-28 13:32:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-30 21:33:48]: [INFO] SQLite Setup finished
+[08-30 21:33:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 21:33:49]: [INFO] Hooked successfully into Multiverse-Core
+[08-30 21:33:50]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-30 21:33:50]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-30 21:33:54]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-30 21:33:54]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-30 21:33:54]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-30 21:33:54]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[08-30 21:33:54]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-30 21:54:19]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 21:59:23]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:05:51]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:05:54]: [INFO] SQLite Setup finished
+[08-30 22:05:54]: [INFO] Unhooked from Permissions!
+[08-30 22:05:54]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:05:54]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-30 22:07:07]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:23:11]: [INFO] SQLite Setup finished
+[08-30 22:23:11]: [INFO] Unhooked from Permissions!
+[08-30 22:23:11]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:23:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-30 22:24:07]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:24:32]: [INFO] SQLite Setup finished
+[08-30 22:24:32]: [INFO] Unhooked from Permissions!
+[08-30 22:24:32]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:24:32]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-30 22:25:01]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:25:26]: [FINE] Urikzme_ logged in 169.254.163.162
+[08-30 22:26:35]: [FINE] Urikzme_ logged in 169.254.163.162
+[08-30 22:29:31]: [INFO] SQLite Setup finished
+[08-30 22:29:31]: [INFO] Unhooked from Permissions!
+[08-30 22:29:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:29:31]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-30 22:29:51]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:34:29]: [FINE] Urikzme_ logged in 169.254.163.162
+[08-30 22:35:19]: [WARN] Player 'Urikzme_' wasn't online during login process, aborted...
+[08-30 22:35:29]: [FINE] Urikzme_ logged in 169.254.163.162
+[08-30 22:45:51]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:45:56]: [INFO] SQLite Setup finished
+[08-30 22:45:56]: [INFO] Unhooked from Permissions!
+[08-30 22:45:56]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:45:56]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-30 22:49:59]: [INFO] Fedde_ unregistered himself
+[08-30 22:51:29]: [FINE] Fedde_ registered 127.0.0.1
+[08-30 22:51:29]: [FINE] Fedde_ logged in 127.0.0.1
+[08-30 22:52:12]: [INFO] SQLite Setup finished
+[08-30 22:52:12]: [INFO] Unhooked from Permissions!
+[08-30 22:52:12]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:52:12]: [WARN] Aborting! Encountered exception during reload of AuthMe: [ParserException]: while parsing a block mapping
+ in 'reader', line 34, column 3:
+      unregistered_user: '&cThis user  ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 34, column 39:
+     ... gistered_user: '&cThis user isn't registered!'
+                                         ^
+
+[08-30 22:52:12]: while parsing a block mapping
+ in 'reader', line 34, column 3:
+      unregistered_user: '&cThis user  ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 34, column 39:
+     ... gistered_user: '&cThis user isn't registered!'
+                                         ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:235)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:95)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:119)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:490)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:442)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.readStreamToMap(MessageMigraterPropertyReader.java:111)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromStream(MessageMigraterPropertyReader.java:48)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromFile(MessageMigraterPropertyReader.java:41)
+	at fr.xephi.authme.message.updater.MigraterYamlFileResource.createReader(MigraterYamlFileResource.java:23)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:61)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:46)
+	at fr.xephi.authme.message.MessagesFileHandler.reloadInternal(MessagesFileHandler.java:33)
+	at fr.xephi.authme.message.MessagesFileHandler.reload(MessagesFileHandler.java:26)
+	at fr.xephi.authme.command.executable.authme.ReloadCommand.lambda$performReloadOnServices$0(ReloadCommand.java:72)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at fr.xephi.authme.command.executable.authme.ReloadCommand.performReloadOnServices(ReloadCommand.java:72)
+	at fr.xephi.authme.command.executable.authme.ReloadCommand.executeCommand(ReloadCommand.java:61)
+	at fr.xephi.authme.command.CommandHandler.executeCommand(CommandHandler.java:122)
+	at fr.xephi.authme.command.CommandHandler.handleCommandResult(CommandHandler.java:81)
+	at fr.xephi.authme.command.CommandHandler.processCommand(CommandHandler.java:68)
+	at fr.xephi.authme.AuthMe.onCommand(AuthMe.java:344)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:782)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147361_d(ServerPlayNetHandler.java:1826)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147354_a(ServerPlayNetHandler.java:1663)
+	at net.minecraft.network.play.client.CChatMessagePacket.func_148833_a(CChatMessagePacket.java:39)
+	at net.minecraft.network.play.client.CChatMessagePacket.func_148833_a(CChatMessagePacket.java:10)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(PacketThreadUtil.java:22)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:967)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:174)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:950)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:944)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:930)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:850)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08-30 22:52:12]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-30 22:56:44]: [INFO] SQLite Setup finished
+[08-30 22:56:45]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-30 22:56:45]: [WARN] Aborting initialization of AuthMe: [InjectorReflectionException]: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@228019bb
+[08-30 22:56:45]: fr.xephi.authme.libs.ch.jalu.injector.exceptions.InjectorReflectionException: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@228019bb
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:76)
+	at fr.xephi.authme.libs.ch.jalu.injector.handlers.postconstruct.PostConstructMethodInvoker.postProcess(PostConstructMethodInvoker.java:27)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.runPostConstructHandlers(InjectorImpl.java:271)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:164)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolve(InjectorImpl.java:133)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:72)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:247)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:221)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:145)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:273)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:506)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:418)
+	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServer.java:443)
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:347)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:73)
+	... 23 more
+Caused by: while parsing a block mapping
+ in 'reader', line 34, column 3:
+      unregistered_user: '&cThis user  ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 34, column 39:
+     ... gistered_user: '&cThis user isn't registered!'
+                                         ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:235)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:95)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:119)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:490)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:442)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.readStreamToMap(MessageMigraterPropertyReader.java:111)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromStream(MessageMigraterPropertyReader.java:48)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromFile(MessageMigraterPropertyReader.java:41)
+	at fr.xephi.authme.message.updater.MigraterYamlFileResource.createReader(MigraterYamlFileResource.java:23)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:61)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:46)
+	at fr.xephi.authme.message.MessagesFileHandler.reloadInternal(MessagesFileHandler.java:33)
+	at fr.xephi.authme.message.MessagesFileHandler.reload(MessagesFileHandler.java:26)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 25 more
+
+[08-30 22:56:46]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 19:45:14]: [INFO] SQLite Setup finished
+[09-06 19:45:15]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-06 19:45:15]: [WARN] Aborting initialization of AuthMe: [InjectorReflectionException]: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@429b0b79
+[09-06 19:45:15]: fr.xephi.authme.libs.ch.jalu.injector.exceptions.InjectorReflectionException: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@429b0b79
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:76)
+	at fr.xephi.authme.libs.ch.jalu.injector.handlers.postconstruct.PostConstructMethodInvoker.postProcess(PostConstructMethodInvoker.java:27)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.runPostConstructHandlers(InjectorImpl.java:271)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:164)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolve(InjectorImpl.java:133)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:72)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:247)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:221)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:145)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:273)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:506)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:418)
+	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServer.java:443)
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:347)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:73)
+	... 23 more
+Caused by: while parsing a block mapping
+ in 'reader', line 34, column 3:
+      unregistered_user: '&cThis user  ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 34, column 39:
+     ... gistered_user: '&cThis user isn't registered!'
+                                         ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:235)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:95)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:119)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:490)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:442)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.readStreamToMap(MessageMigraterPropertyReader.java:111)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromStream(MessageMigraterPropertyReader.java:48)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromFile(MessageMigraterPropertyReader.java:41)
+	at fr.xephi.authme.message.updater.MigraterYamlFileResource.createReader(MigraterYamlFileResource.java:23)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:61)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:46)
+	at fr.xephi.authme.message.MessagesFileHandler.reloadInternal(MessagesFileHandler.java:33)
+	at fr.xephi.authme.message.MessagesFileHandler.reload(MessagesFileHandler.java:26)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 25 more
+
+[09-06 19:45:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 19:53:10]: [INFO] SQLite Setup finished
+[09-06 19:53:10]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-06 19:53:11]: [WARN] Aborting initialization of AuthMe: [InjectorReflectionException]: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@344f56ad
+[09-06 19:53:11]: fr.xephi.authme.libs.ch.jalu.injector.exceptions.InjectorReflectionException: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@344f56ad
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:76)
+	at fr.xephi.authme.libs.ch.jalu.injector.handlers.postconstruct.PostConstructMethodInvoker.postProcess(PostConstructMethodInvoker.java:27)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.runPostConstructHandlers(InjectorImpl.java:271)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:164)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolve(InjectorImpl.java:133)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:72)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:247)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:221)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:145)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:273)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:506)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:418)
+	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServer.java:443)
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:347)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:73)
+	... 23 more
+Caused by: while parsing a block mapping
+ in 'reader', line 34, column 3:
+      unregistered_user: '&cThis user  ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 34, column 39:
+     ... gistered_user: '&cThis user isn't registered!'
+                                         ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:235)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:95)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:119)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:490)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:442)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.readStreamToMap(MessageMigraterPropertyReader.java:111)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromStream(MessageMigraterPropertyReader.java:48)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromFile(MessageMigraterPropertyReader.java:41)
+	at fr.xephi.authme.message.updater.MigraterYamlFileResource.createReader(MigraterYamlFileResource.java:23)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:61)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:46)
+	at fr.xephi.authme.message.MessagesFileHandler.reloadInternal(MessagesFileHandler.java:33)
+	at fr.xephi.authme.message.MessagesFileHandler.reload(MessagesFileHandler.java:26)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 25 more
+
+[09-06 19:53:11]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 19:57:17]: [INFO] SQLite Setup finished
+[09-06 19:57:18]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-06 19:57:18]: [WARN] Aborting initialization of AuthMe: [InjectorReflectionException]: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@bddb46f
+[09-06 19:57:18]: fr.xephi.authme.libs.ch.jalu.injector.exceptions.InjectorReflectionException: Could not invoke method 'reload' for fr.xephi.authme.message.MessagesFileHandler@bddb46f
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:76)
+	at fr.xephi.authme.libs.ch.jalu.injector.handlers.postconstruct.PostConstructMethodInvoker.postProcess(PostConstructMethodInvoker.java:27)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.runPostConstructHandlers(InjectorImpl.java:271)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:164)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:186)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolveContext(InjectorImpl.java:158)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.resolve(InjectorImpl.java:133)
+	at fr.xephi.authme.libs.ch.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:72)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:247)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:221)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:145)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:273)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:481)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:506)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:418)
+	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServer.java:443)
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServer.java:347)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:799)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at fr.xephi.authme.libs.ch.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:73)
+	... 23 more
+Caused by: while parsing a block mapping
+ in 'reader', line 34, column 3:
+      unregistered_user: '&cThis user  ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 34, column 39:
+     ... gistered_user: '&cThis user isn't registered!'
+                                         ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:235)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162)
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:95)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:119)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:490)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:442)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.readStreamToMap(MessageMigraterPropertyReader.java:111)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromStream(MessageMigraterPropertyReader.java:48)
+	at fr.xephi.authme.message.updater.MessageMigraterPropertyReader.loadFromFile(MessageMigraterPropertyReader.java:41)
+	at fr.xephi.authme.message.updater.MigraterYamlFileResource.createReader(MigraterYamlFileResource.java:23)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:61)
+	at fr.xephi.authme.message.updater.MessageUpdater.migrateAndSave(MessageUpdater.java:46)
+	at fr.xephi.authme.message.MessagesFileHandler.reloadInternal(MessagesFileHandler.java:33)
+	at fr.xephi.authme.message.MessagesFileHandler.reload(MessagesFileHandler.java:26)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 25 more
+
+[09-06 19:57:18]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 20:01:35]: [INFO] SQLite Setup finished
+[09-06 20:01:36]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-06 20:01:37]: [INFO] Hooked successfully into Multiverse-Core
+[09-06 20:01:38]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[09-06 20:01:39]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-06 20:01:42]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-06 20:01:42]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-06 20:01:42]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-06 20:01:42]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-06 20:01:42]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[09-06 20:04:09]: [FINE] Fedde_ logged in 127.137.16.115
+[09-07 14:36:18]: [INFO] SQLite Setup finished
+[09-07 14:36:18]: [INFO] No supported permissions system found! Permissions are disabled!
+[09-07 14:36:19]: [INFO] Hooked successfully into Multiverse-Core
+[09-07 14:36:19]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[09-07 14:36:19]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-07 14:36:21]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[09-07 14:36:21]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[09-07 14:36:21]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[09-07 14:36:21]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[09-07 14:36:21]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[02-04 18:39:47]: [INFO] SQLite Setup finished
+[02-04 18:39:47]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-04 18:39:47]: [INFO] Hooked successfully into Multiverse-Core
+[02-04 18:39:48]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-04 18:39:48]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[02-04 18:39:49]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[02-04 18:39:49]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[02-04 18:39:49]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[02-04 18:39:49]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[02-04 18:39:49]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:90)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:20)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+

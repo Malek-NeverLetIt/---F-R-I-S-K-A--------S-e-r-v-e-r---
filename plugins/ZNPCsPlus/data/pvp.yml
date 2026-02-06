@@ -1,0 +1,28 @@
+id: pvp
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: 90fd2008-cd80-4b38-b8df-8808bc6a9719
+world: MiniGames
+location:
+  x: 9.5
+  y: 5.0
+  z: 21.5
+  yaw: 180.0
+  pitch: 0.0
+type: player
+properties:
+  skin_jacket: 'true'
+  skin_hat: 'true'
+  skin_right_leg: 'true'
+  skin_cape: 'true'
+  skin_left_sleeve: 'true'
+  skin_left_leg: 'true'
+  skin_right_sleeve: 'true'
+hologram:
+  lines: []
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dHAgQHAgODkgMTAgNDU=;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dGVsbHJhdyBAcCB7InRleHQiOiJXZWxjb21lIFRvIFBWUCIsImNvbG9yIjoiZGFya19yZWQifQ==;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;Y2xlYXIgQHA=;1000;ANY_CLICK;0
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;dGFnIEBwIHJlbW92ZSBodWI=;1000;ANY_CLICK;0

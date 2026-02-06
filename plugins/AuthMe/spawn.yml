@@ -1,0 +1,14 @@
+spawn:
+  world: authworld
+  x: 8.327330601875644
+  y: 4.0
+  z: 8.567027152337165
+  yaw: 0.44285554
+  pitch: 90.0
+firstspawn:
+  world: ''
+  x: ''
+  y: ''
+  z: ''
+  yaw: ''
+  pitch: ''
